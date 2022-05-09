@@ -1,4 +1,35 @@
-                    ### Ola sou Matheus                    Bem Vindo ao meu Github 👋
+     
+     
+     
+     <h1 align='center'>
+  Olá, sou o Matheus dos Santos Lesbao!
+  <br/>
+  Bem vindo a minha página :)
+</h1>
+
+<p align='center'>
+  Estudante na Area de Programação
+</p>
+
+### 🦊 Sobre mim:
+
+<p>
+  <em>
+    Tenho 26 anos, sou do Rio de Janeiro e estou seguindo uma jornada para me tornar um programador.
+  </em>
+</p>
+
+- Estudante autodidata na maior parte do tempo e aluno na UNIASSELVI
+- 📫 Meu email: matheuss.lesbao@gmail.com
+
+### ⚡ Tecnologias:
+
+Estas são algumas das tecnologias e ferramentas que trabalho:
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,bootstrap)](https://skillicons.dev)
+
+
+     ////
 <div align="center">
   <a href="https://github.com/matheuslesbao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslesbao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
