@@ -12,11 +12,11 @@
 
 <p>
   <em>
-    Tenho 26 anos, sou do Rio de Janeiro e estou seguindo uma jornada para me tornar um programador.
+   Objetivo obter conhecimento é se tornar um departarmento de ti.
   </em>
 </p>
 
-- Estudante autodidata na maior parte do tempo e aluno na UNIASSELVI
+- Estudante autodidata na maior parte do tempo e ex-aluno na UNIASSELVI
 - 📫 Meu email: matheuss.lesbao@gmail.com
 
 ### ⚡ Tecnologias:
